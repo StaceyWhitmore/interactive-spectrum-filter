@@ -1,3 +1,7 @@
+Interactive Spectrum Filter
+============================
+An algorithm which takes a sample of music, extracting 1/2 second segments where the pitch is constant. It then computes and plots a spectrogram of those segments. The program includes functions for high and low-pass filters which can be used to filter out harmonics when needed.
+
 ### Freesound
 
 Special thanks to Freesound (http://freesound.org), which is the source of many of the
@@ -35,4 +39,3 @@ http://www.freesound.org/people/rockwehrmann/sounds/72475/
 http://www.freesound.org/people/marcgascon7/sounds/87778/
 
 http://www.freesound.org/people/jcveliz/sounds/92002/
-
